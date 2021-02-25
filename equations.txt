@@ -1,0 +1,928 @@
+Problem 1
+1.  5x - 3z = -26
+2.  -3x - y - 3z = 2
+3.  x + 5y + 3z = 22
+
+(x=-4  y=4  z=2)
+
+
+How to do this:
+
+1. Pick a variable (x, y, or z). Here, we pick z 
+
+2. Pick two equations (e.g. 1. and 2.)
+
+3. You want the number in front of z to be the same in both equations, BUT: with the opposite sign
+
+4. Write them so that they line up:
+
+ 5x     - 3z = -26
+-3x - y - 3z = 2
+
+
+5. Because the numbers before z are both negative, we change the signs in one equation, e.g. in the second:
+
+ 5x     - 3z = -26
+ 3x + y + 3z = -2
+ 
+
+6. Now we add them up:
+
+ 8x + y      = -28
+
+7. Now we pick two equations again, e.g. 1. and 3., and line them up again:
+
+5x      - 3z = -26
+ x + 5y + 3z =  22
+
+
+8. Because the numbers before z have the opposite sign, we can just add them up:
+
+6x + 5y      =  -4
+
+
+9. Now we line up the results from both additions, and pick a variable, e.g. y:
+
+ 8x +  y = -28
+ 6x + 5y =  -4
+
+
+10. We multiply by 5:
+
+40x + 5y = -140
+ 6x + 5y =   -4
+
+
+11. Now we fix the sign (don't forget the 6x!):
+
+40x + 5y = -140
+-6x - 5y =   +4
+
+
+12. Let's add them up:
+
+34x      = -136
+
+
+13. Divide by 34 so that it becomes "x ="
+
+x = -4
+
+
+14. Go back to one equation that has x and one other variable, e.g.:
+
+ 6x + 5y =  -4
+
+
+15. Replace x with 4:
+
+ 6*(-4) + 5y = -4
+
+
+16. This becomes:
+
+-24 + 5y = -4
+
+
+17. Add 24 on both sides:
+
+
+-24 + 24 + 5y = -4 + 24
+
+
+18. Which becomes:
+
+ 5y = 20
+
+
+19. Divide by 5 to get y:
+
+ y = 4
+
+
+20. Now that we have x and y, we pick one of the three initial equations, e.g.:
+
+-3x - y - 3z = 2
+
+
+21. Put in -4 for x and 4 for y:
+
+-3*(-4) - 4 -3z = 2
+
+
+22. This becomes:
+
+8 - 3z = 2
+
+
+23. Subtract 8 from both sides:
+
+ -3z = -6
+
+
+24. Divide by 3 to get z:
+
+ -z = -2
+
+
+25. Change the sign to get z:
+
+  z = 2
+
+
+
+
+
+=======================================================================
+Problem 2
+-4x - z = -3
+6x - 3z = -9
+-5x + y + 6z = 13
+
+(x=0  y=-5  z=3)
+
+
+Problem 3
+5x - 3z = -26
+-3x - y - 3z = 2
+x + 5y + 3z = 22
+
+(x=-4  y=4  z=2)
+
+
+Problem 4
+4x - 2y + 4z = 14
+2x - 5y - 5z = -31
+6x + 2y + 6z = 16
+
+(x=-3  y=-1  z=6)
+
+
+Problem 5
+4x + 5y = -9
+6x + 2y + 2z = 6
+x + y - z = 3
+
+(x=4  y=-5  z=-4)
+
+
+Problem 6
+-5x - y + 2z = -20
+5x + y - z = 15
+6x - 5y - 3z = -4
+
+(x=1  y=5  z=-5)
+
+
+Problem 7
+x - 5y + z = -36
+-x - y - 2z = 1
+6x - 4y + 6z = -60
+
+(x=-5  y=6  z=-1)
+
+
+Problem 8
+3x + y + 2z = 2
+-x - 2y + 3z = 28
+5x - 5y + z = 16
+
+(x=-2  y=-4  z=6)
+
+
+Problem 9
+-3x - 2y + 3z = -18
+ - 2y = -12
+6x - 3y + 2z = 18
+
+(x=5  y=6  z=3)
+
+
+Problem 10
+5x + 4y + 3z = -16
+4x + 4y - 2z = -30
+-5x + 2y + 3z = 4
+
+(x=-1  y=-5  z=3)
+
+
+Problem 11
+ + 4y + 5z = 6
+4x + 5y - 2z = -1
+4x + y - 2z = 3
+
+(x=2  y=-1  z=2)
+
+
+Problem 12
+6x + 3y - 4z = 47
+3x - 5y - 4z = -5
+-4x - 5y + 5z = -51
+
+(x=4  y=5  z=-2)
+
+
+Problem 13
+-5x + 2z = 6
+2x - z = -2
+6x + 4y + 6z = -36
+
+(x=-2  y=-3  z=-2)
+
+
+Problem 14
+-5x - 3y - 2z = -21
+3x - 5y - 2z = 33
+3x + 3y + 2z = 9
+
+(x=6  y=-3  z=0)
+
+
+Problem 15
+5x + y - 2z = -8
+-2x + z = 2
+-5x - 4y - 3z = 10
+
+(x=0  y=-4  z=2)
+
+
+Problem 16
+2x - y - 2z = -14
+-3x - 2y - z = -13
+ - 2y - 3z = -23
+
+(x=0  y=4  z=5)
+
+
+Problem 17
+3x - 4z = 1
+x + 6y + 5z = -19
+-2x + 6z = -14
+
+(x=-5  y=1  z=-4)
+
+
+Problem 18
+ + 4y + 5z = 30
+-4x + y + 4z = 5
+-3x + y - 2z = -5
+
+(x=2  y=5  z=2)
+
+
+Problem 19
+-3x - 2y + 5z = 23
+-2x - 5y + 6z = 28
+-4x + 5y + 3z = 8
+
+(x=-3  y=-2  z=2)
+
+
+Problem 20
+-4x - y = -3
+2x + 3y + z = 6
+-2x + y - 5z = 18
+
+(x=0  y=3  z=-3)
+
+
+Problem 21
+-2x - 5y + 2z = 11
+-4x - 2y - 3z = -21
+6x - 4y - 3z = 1
+
+(x=2  y=-1  z=5)
+
+
+Problem 22
+-x - 4y - 4z = 23
+5x + 6y + 4z = -25
+4x + 4y = -8
+
+(x=1  y=-3  z=-3)
+
+
+Problem 23
+4x + 6y + z = 34
+3x + 4y - z = 30
+ + 3y + z = 11
+
+(x=2  y=5  z=-4)
+
+
+Problem 24
+2x + 6z = 38
+5x + 2y + 5z = 39
+-x - 4y - z = 3
+
+(x=4  y=-3  z=5)
+
+
+Problem 25
+4x - 4y - 3z = -1
+-x + 4y + 2z = -10
+x - 3y = 5
+
+(x=-4  y=-3  z=-1)
+
+
+Problem 26
+ + 3y - 4z = 29
+4x - 5y - z = 2
+-3x - y + 3z = -27
+
+(x=3  y=3  z=-5)
+
+
+Problem 27
+-3x + 6y = 21
+3x - 2y - 2z = -5
+-3x - 5z = -35
+
+(x=5  y=6  z=4)
+
+
+Problem 28
+-5x + 2y + 3z = -12
+4x - 2y + z = 19
+-3x - y = -17
+
+(x=5  y=2  z=3)
+
+
+Problem 29
+4x - 4y + 4z = 20
+ + 4y - 3z = -34
+-3x - 4y + 5z = 61
+
+(x=-5  y=-4  z=6)
+
+
+Problem 30
+6x + y + 3z = -26
+-5x - y + 2z = 18
+-x - 4y - 2z = 25
+
+(x=-3  y=-5  z=-1)
+
+
+Problem 31
+5x - 3y + z = 33
+-x + 4y - 5z = -49
+4x - 5y + 2z = 44
+
+(x=3  y=-4  z=6)
+
+
+Problem 32
+-2x + 3y = 11
+ - 2y + z = -5
+6x - y + 2z = -31
+
+(x=-4  y=1  z=-3)
+
+
+Problem 33
+ - 4y + 4z = 12
+-2x + 3y + 2z = 10
+-5x - 4y + 4z = 22
+
+(x=-2  y=0  z=3)
+
+
+Problem 34
+2x + 4y + 3z = -2
+x + 3y + 2z = 1
+-4x - 5y + 5z = -9
+
+(x=-4  y=3  z=-2)
+
+
+Problem 35
+6x - 4y + 6z = -34
+-5x - 5y - 5z = -5
+-4x + 6y - 5z = 38
+
+(x=-1  y=4  z=-2)
+
+
+Problem 36
+x - y - 5z = -29
+-x - 5z = -16
+-x + 4y + 3z = 36
+
+(x=-4  y=5  z=4)
+
+
+Problem 37
+-3x - 3y - 5z = 43
+x - 5z = 22
+2x - 3y + 3z = -12
+
+(x=-3  y=-3  z=-5)
+
+
+Problem 38
+2x + 5y - 5z = -26
+4x + 6z = 38
+3x + 4z = 26
+
+(x=2  y=-1  z=5)
+
+
+Problem 39
+-3x - y - 4z = -35
+2x + 3y - 2z = 0
+-3x - y + 5z = 19
+
+(x=3  y=2  z=6)
+
+
+Problem 40
+-4x - 3y = -19
+-5x - 3y + 2z = -15
+4x - 4y + 5z = 32
+
+(x=4  y=1  z=4)
+
+
+Problem 41
+-5x - 4y - 3z = -51
+-5x + 4y - z = -5
+x + 6y - 2z = 44
+
+(x=6  y=6  z=-1)
+
+
+Problem 42
+5x - 3y - 5z = -48
+3x + y + 4z = 16
+ - 5y + 5z = 25
+
+(x=-3  y=1  z=6)
+
+
+Problem 43
+-4x + 5z = 42
+x + 6z = 33
+-5x + 2y - 3z = -7
+
+(x=-3  y=-2  z=6)
+
+
+Problem 44
+5x + 6y + 3z = -28
+x + 3y + 2z = -12
+ + 3y - 3z = 0
+
+(x=-2  y=-2  z=-2)
+
+
+Problem 45
+ - 2y + 6z = 32
+-2x + 4y - 4z = -16
+4x - y + 3z = 0
+
+(x=-4  y=-1  z=5)
+
+
+Problem 46
+-3x - y - 5z = -4
+-3x - 5z = 0
+x + 2y + z = 10
+
+(x=5  y=4  z=-3)
+
+
+Problem 47
+-3x = 0
+ + 2y + 2z = -12
+-5x - 2y + 4z = 0
+
+(x=0  y=-4  z=-2)
+
+
+Problem 48
+2x - 5y - 5z = 26
+-2x - 3y - 2z = 17
+-4x + 3y - 2z = 15
+
+(x=-2  y=-1  z=-5)
+
+
+Problem 49
+x + 5y = 27
+x - 3z = -18
+-2x - 4y - 5z = -43
+
+(x=-3  y=6  z=5)
+
+
+Problem 50
+-4x + 6y + 3z = -42
+6x - 5y + z = 44
+-x - 2y - 4z = 6
+
+(x=6  y=-2  z=-2)
+
+
+Problem 51
+-5x + 3y - z = 10
+-2x + 2z = 16
+4x - 4y + 3z = 5
+
+(x=-5  y=-4  z=3)
+
+
+Problem 52
+6x - 4y + 3z = -9
+-5x - 3y + 4z = 46
+-5x - y + 3z = 37
+
+(x=-5  y=-3  z=3)
+
+
+Problem 53
+-x + 5y + 5z = -31
+-2x + 3y - 5z = 27
+3x + y - 4z = 6
+
+(x=-4  y=-2  z=-5)
+
+
+Problem 54
+6x - 5y + 5z = 24
+6x + y + z = 32
+3x + 6y - z = 32
+
+(x=4  y=4  z=4)
+
+
+Problem 55
+-4x - 4y - 4z = 4
+-4x + 2y + 2z = -8
+2x = 2
+
+(x=1  y=-5  z=3)
+
+
+Problem 56
+5x - 3y + 6z = -45
+x + 3z = -9
+-x + 6y + 3z = 33
+
+(x=-3  y=6  z=-2)
+
+
+Problem 57
+-4x + 6y + 2z = 50
+5x + 4y - 4z = 5
+-2x + 5y - z = 35
+
+(x=-3  y=6  z=1)
+
+
+Problem 58
+-5x + y - z = -3
+3x + y + 6z = 17
+-2x - 4y + 5z = 38
+
+(x=-1  y=-4  z=4)
+
+
+Problem 59
+3x + 5y = 36
+-x + 6y + 4z = 14
+ + 5y + 2z = 20
+
+(x=2  y=6  z=-5)
+
+
+Problem 60
+-x - 4y + 5z = -42
+4x + 6y - 3z = 40
+6x - 3y - 2z = -22
+
+(x=-2  y=6  z=-4)
+
+
+Problem 61
+-5x + 5y + 4z = -5
+6x - 4y - 3z = 2
+3x - 5y - 5z = 7
+
+(x=-1  y=-2  z=0)
+
+
+Problem 62
+-5x + y + 2z = 0
+3x - 4y - 4z = 13
+2x + 4y - 2z = -12
+
+(x=-1  y=-3  z=-1)
+
+
+Problem 63
+4x + y - 4z = -12
+4x + 2y + 2z = 6
+4x + 3y + 6z = 18
+
+(x=0  y=0  z=3)
+
+
+Problem 64
+ + 4y + 4z = 8
+3x - 2y - 3z = -12
+5x + 6y = 3
+
+(x=-3  y=3  z=-1)
+
+
+Problem 65
+-3x + 4y - 4z = -47
+-x + 4z = 15
+6x - 3y + z = 44
+
+(x=5  y=-3  z=5)
+
+
+Problem 66
+-3x - 2y - 4z = 5
+3x + 6y - 2z = -5
+ + 6y + 4z = -26
+
+(x=3  y=-3  z=-2)
+
+
+Problem 67
+5x + 3y - 4z = 34
+ + 4y - 3z = 12
+-x + 6y + 4z = 13
+
+(x=5  y=3  z=0)
+
+
+Problem 68
+-3x + 5y - 2z = 14
+-2x + 5y + 6z = -11
+6x + 4y - 2z = 4
+
+(x=-1  y=1  z=-3)
+
+
+Problem 69
+-2x + 4y - 3z = -13
+6x + y + 4z = 18
+-2x + 3y + 3z = -17
+
+(x=4  y=-2  z=-1)
+
+
+Problem 70
+-5x + y + 4z = 4
+5x - y - z = -1
+3x - y + 2z = 0
+
+(x=1  y=5  z=1)
+
+
+Problem 71
+-4x + 4y - 2z = -10
+x - 5y - 5z = 38
+ + 6y - 3z = 3
+
+(x=3  y=-2  z=-5)
+
+
+Problem 72
+4x + 6y - 5z = -23
+ + 2y + 6z = 36
+2x + 6y + 3z = 25
+
+(x=-4  y=3  z=5)
+
+
+Problem 73
+-2x - 4z = -6
+-5x + 6y + 2z = 3
+-x - 2y - 5z = -10
+
+(x=5  y=5  z=-1)
+
+
+Problem 74
+6x + 2y + z = -35
+-5x + 5y - 3z = -4
+-3x - 2y + 2z = 29
+
+(x=-5  y=-4  z=3)
+
+
+Problem 75
+-5x + 4y + z = 7
+3x = -9
+3x - 4y + 3z = -17
+
+(x=-3  y=-1  z=-4)
+
+
+Problem 76
+-2x + 3y - 4z = 12
+-4x = -12
+-4x + 5y + 5z = 18
+
+(x=3  y=6  z=0)
+
+
+Problem 77
+ + 5y - 2z = -19
+-4x + 3y + 2z = -9
+-4x + 4y = -16
+
+(x=1  y=-3  z=2)
+
+
+Problem 78
+ + 5y - 4z = -21
+6x + y - z = -23
+5x + 4y - z = -23
+
+(x=-3  y=-1  z=4)
+
+
+Problem 79
+x - 5y + 4z = 6
+-3x - 2y + 2z = 16
+3x + 3y - 4z = -18
+
+(x=-4  y=-2  z=0)
+
+
+Problem 80
+-4x + 6y + 4z = 10
+5x + 4y + 2z = 8
+ + 2y + 3z = 0
+
+(x=0  y=3  z=-2)
+
+
+Problem 81
+ - 2y + 3z = 10
+6x + 4y - 2z = 34
+4x + 6y + z = 50
+
+(x=5  y=4  z=6)
+
+
+Problem 82
+ - 3y - 5z = 32
+-2x + 3y - 4z = -8
+2x + 6y = -12
+
+(x=6  y=-4  z=-4)
+
+
+Problem 83
+6x + 3z = -3
+5x - y + z = -9
+3x - y = -8
+
+(x=-1  y=5  z=1)
+
+
+Problem 84
+5x + 3y - z = -14
+2x - y - 5z = -33
+-4x - 5y - 4z = -18
+
+(x=-3  y=2  z=5)
+
+
+Problem 85
+-2x + z = 1
+4x + 3y - 2z = 1
+3x + 4y - 5z = 6
+
+(x=-1  y=1  z=-1)
+
+
+Problem 86
+-x + 2y + z = 11
+-2x - 2y - 3z = -3
+x + 2y - 4z = 12
+
+(x=-2  y=5  z=-1)
+
+
+Problem 87
+ - y + 4z = -16
+-5x - 4y + z = 31
+6x + y - z = -23
+
+(x=-4  y=-4  z=-5)
+
+
+Problem 88
+-2x - 3y - 2z = -12
+-x + 3y - 4z = -12
+-4x - 4y - 4z = -24
+
+(x=4  y=0  z=2)
+
+
+Problem 89
+-5x - 3y - 2z = 2
+ - 3y - 4z = 25
+2x - y + 2z = 1
+
+(x=3  y=-3  z=-4)
+
+
+Problem 90
+-5x + 6y + 4z = 43
+4x - 5y + 3z = -10
+-3x - y + 2z = 15
+
+(x=-3  y=2  z=4)
+
+
+Problem 91
+-3x + 4y - 2z = -9
+-5x - 4y - 3z = -5
+5x - 4y + 4z = 11
+
+(x=3  y=-1  z=-2)
+
+
+Problem 92
+-3x + 3y + z = -18
+-2x + 2y - z = -12
+4x - 3y - 3z = 20
+
+(x=2  y=-4  z=0)
+
+
+Problem 93
+ + 3y - 2z = 5
+-x + 2y = 2
+4x - y + 6z = -7
+
+(x=0  y=1  z=-1)
+
+
+Problem 94
+-x - y - 4z = -8
+-5x + 3y + 2z = -14
+-3x + 6y - 5z = 23
+
+(x=6  y=6  z=-1)
+
+
+Problem 95
+3x + 3y - 3z = 0
+-2x + 2y + 6z = 16
+ + 4y + 3z = 14
+
+(x=0  y=2  z=2)
+
+
+Problem 96
+3x + 3y + 2z = 16
+2x - 2y + 4z = 24
+4x - 4y + 5z = 33
+
+(x=2  y=0  z=5)
+
+
+Problem 97
+6x - 3y + 3z = 27
+6x + 5y = 12
+3x + 2y = 6
+
+(x=2  y=0  z=5)
+
+
+Problem 98
+5x + 4y - 2z = 26
+-3x + 5y + 6z = 48
+5x + 3y + 2z = 36
+
+(x=2  y=6  z=4)
+
+
+Problem 99
+3x - 5y + 5z = -36
+5x - 2y + 5z = -34
+-5x + 4y + 5z = -2
+
+(x=-2  y=2  z=-4)
+
+
+Problem 100
+5x - 3y + z = -9
+x + 4y - 5z = -33
+ + y - 2z = -12
+
+(x=-3  y=0  z=6)
+
+
